@@ -18,7 +18,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - 🔭 I’m working  Java developer creates web applications and pet projects
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on LetCode.
+- ⚡ In my free time I solve problems on LeetCode.
 
 ---
 
