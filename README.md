@@ -1,11 +1,7 @@
-<div>
-	<div id="header" align="center">
-		<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-	<h1 align="center">Hi there, I'm<a ></a> Kirill</a> 
-	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-	<h3 align="center"> Student, Java Developer 🇷🇺 </h3>
-  </div>
-  
+<h3 align="center"> Student, Java Developer </h3>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -14,7 +10,7 @@
 
 ###  &nbsp;About Me :
 
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  🇷🇺 .
+I am a Java Developer from  🇷🇺 .
 
 - 🔭 I’m working  Java developer creates web applications and pet projects
 - 🌱 Exploring Technical Content Writing.
